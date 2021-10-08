@@ -1,0 +1,12 @@
+{
+  "name": "JS_FUNCTION",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/premwit555/JS_FUNCTION.git",
+  "author": "min-macbook <premwit.min@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "underscore": "^1.13.1"
+  },
+  "type": "module"
+}
