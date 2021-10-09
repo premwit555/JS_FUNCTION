@@ -43,3 +43,6 @@ if (lastTime > countdown) {
      // if time > min5 start function
      console.log(Now)
 }
+
+
+// time now is
